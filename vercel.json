@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/index.php": {
+      "runtime": "vercel-php@0.4.0"
+    },
+    "api/busca_folio.php": {
+      "runtime": "vercel-php@0.4.0"
+    },
+    "api/insertar_nuevo_empleado.php": {
+      "runtime": "vercel-php@0.4.0"
+    },
+    "api/pooh.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+  }
+}
